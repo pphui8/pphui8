@@ -6,4 +6,4 @@
 - 🍚 favorite food: beef rice noodle and curry rice. コーラ最高
 - 🎏 Welcome to my [Web Page](https://pphui8.me)
 - 🎹 Love piano, practicing *永远的7日之都组曲*  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pphui8&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pphui8&count_private=true&show_icons=true&border_color=39c5bb)](https://github.com/anuraghazra/github-readme-stats)
