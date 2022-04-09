@@ -1,8 +1,8 @@
 ### hi, I`m pphui8.
 ---  
 - 👨‍🎓 College student of Computer Science
-- 💬 English learner, Japanese learner and native Chinese speaker
-- 🧐 Interested in all feild of Computer Science, especially ```Front end``` and ```Machine Learning/Deep Learning```
+- 💬 English && Japanese && native Chinese speaker
+- 🧐 Interested in all feild of Computer Science, especially ```Front end``` and ```rust```
 - 🍚 favorite food: beef rice noodle and curry rice. コーラ最高
 - 🎏 Welcome to my [Web Page](https://pphui8.me)
 - 🎹 Loving piano, practicing *永远的7日之都组曲*  
