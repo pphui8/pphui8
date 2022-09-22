@@ -10,4 +10,6 @@
 -   👨‍💻 rust && typescript && c/cpp
 -   🎹 Loving piano, practicing *永远的7日之都组曲*  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pphui8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pphui8&count_private=true&show_icons=true&border_color=39c5bb)](https://github.com/anuraghazra/github-readme-stats)
