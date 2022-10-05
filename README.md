@@ -4,7 +4,7 @@
 
 -   👨‍🎓 University student of Computer Science
 -   💬 English && Japanese && Chinese
--   🧐 Interested in all feild of Computer Science
+-   🧐 Interested in all field of Computer Science
 -   🍚 Favorite food: beef rice noodle and curry rice. コーラ最高
 -   🎏 Welcome to my [Web Site](https://pphui8.com)
 -   👨‍💻 rust && typescript && c/cpp
