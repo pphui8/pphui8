@@ -2,7 +2,7 @@
 
 * * *
 
--   👨‍🎓 University student of Computer Science
+-   👨‍🎓 Undergraduate && Computer Science
 -   💬 English && Japanese && Chinese
 -   🧐 Interested in all field of Computer Science
 -   🍚 Favorite food: beef rice noodle and curry rice. コーラ最高
