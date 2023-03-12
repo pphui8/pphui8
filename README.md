@@ -4,9 +4,9 @@
 
 -   👨‍🎓 Undergraduate && Computer Science
 -   💬 English && Japanese && Chinese
--   🧐 Interested in all field of Computer Science
+-   🧐 Interested in all areas of computer science
 -   🍚 Favorite food: beef rice noodle and curry rice. コーラ最高
--   🎏 Welcome to my *[Web Site](https://pphui8.com)*
+-   🎏 Welcome to my *[Website](https://pphui8.com)*
 -   👨‍💻 🦀 || go || typescript || cpp || python
 -   🎹 Loving piano, big fan of *[Animenzzz](https://www.youtube.com/c/Animenzzz)*  
 
