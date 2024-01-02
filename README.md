@@ -3,7 +3,7 @@
 * * *
 
 -   👨‍🎓 Graduate student && Computer Science
--   💬 English && Japanese && Chinese && Korean
+-   💬 English && 日本語 && 中文 && 한국어
 -   🧐 Interested in all areas of computer science
 -   🍚 Favorite food: beef rice noodle and curry rice. コーラ最高
 -   🎏 Welcome to my *[Website](https://pphui8.com)*
