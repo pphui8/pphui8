@@ -1,6 +1,6 @@
 ### hi, I\`m pphui8.
 
----
+<hr/>
 
 -   👨‍🎓 Graduate student && Computer Science
 -   💬 English && 日本語 && 中文 && 한국어
