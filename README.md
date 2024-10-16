@@ -2,8 +2,8 @@
 
 ---
 
--   👨‍🎓 Graduate student && Artificial Intelligence
--   💬 English && 日本語 && 中文 && 한국어
+-   👨‍🎓 Graduate student && Software Engineering && Artificial Intelligence
+-   💬 English && 日本語 && 中文
 -   🧐 Research area: Knowledge Intensive Software Engineering
 -   🍚 Favorite food: beef rice noodle and curry rice. コーラ最高
 -   🎏 Welcome to my *[Website](https://pphui8.com)*
